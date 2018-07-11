@@ -36,7 +36,7 @@
 ### Main Project(s)
 [Reference Github Projects (i.e. Arcus POC](https://github.research.chop.edu)
 ### Dependencies
--[ ][Reference dependent repos or issues unresolved](https://github.com/)
+> Reference dependent repos or issues unresolved
 
  - [ ] List item
  - [ ] [Reference Dependent Repos or Issues](https://www.github.com)
