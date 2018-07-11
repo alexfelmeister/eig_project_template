@@ -32,11 +32,10 @@
 ### Main Project(s)
 [Reference Github Projects (i.e. Arcus POC](https://github.research.chop.edu)
 ### Dependencies
--[ ][Reference dependent repos or issues unresolved](https://github.com/)
 
  - [ ] List item
  - [ ] [Reference Dependent Repos or Issues](https://www.github.com)
- - [x] Complete item   
+ - [x] Complete item [issue 34](https://github.com)  
 
 [Reference resolved github repos or issues](https://github.com)
 
@@ -64,5 +63,5 @@ DBHi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5ODkyNzAsLTEyNDYyMjQ1NF19
+eyJoaXN0b3J5IjpbLTkyMTc5NjU3NSwtMTI0NjIyNDU0XX0=
 -->
