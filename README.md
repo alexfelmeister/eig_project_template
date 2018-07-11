@@ -5,9 +5,11 @@
 # Documenting EiG Projects <title>
 > Brief Description (Introduction):
 > This document provides a shell as to the documentation of a general project that must be completed as the project is in its intital, integration and phased implementation. THis document is a template and shell to what is expected to be documented in the project
-> Please use the README.md file on the front of the repository for this purpose. 
-> Use other files in the repo as necessary if there are document based deliverables.
-> 
+> - Please use the README.md file on the front of the repository for this purpose. 
+> - Use other files in the repo as necessary if there are document based deliverables.
+> - Can be public or enterprise
+> - use this README on all projects, even code.
+> Mark issues in projec or code repositories with the label “
 
 # Background
 
@@ -66,5 +68,5 @@ DBHi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMjUyNTMxLDE0MjA3MzYyMzVdfQ==
+eyJoaXN0b3J5IjpbNTEyNjYyMTI1LDE0MjA3MzYyMzVdfQ==
 -->
