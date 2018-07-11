@@ -9,7 +9,7 @@
 > - Use other files in the repo as necessary if there are document based deliverables.
 > - Can be public or enterprise
 > - use this README on all projects, even code.
-> Mark issues in projec or code repositories with the label “
+> Mark issues in project or code repositories with the label `1:1` For items you want to discuss during your 1:1s.
 
 # Background
 
@@ -68,5 +68,5 @@ DBHi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNjYyMTI1LDE0MjA3MzYyMzVdfQ==
+eyJoaXN0b3J5IjpbLTI1OTE2NjMwNywxNDIwNzM2MjM1XX0=
 -->
