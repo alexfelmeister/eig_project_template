@@ -18,7 +18,8 @@ Please use the <a href="http://README.md">README.md</a> file on the front of the
 <h2 id="phase-1">Phase 1</h2>
 <ul>
 <li>Element of Phase 1</li>
-<li>Element of Phase 1</li>
+<li>
+- Element of Phase 1</li>
 <li>[…]</li>
 </ul>
 <h2 id="phase-2">Phase 2</h2>
@@ -39,7 +40,27 @@ Please use the <a href="http://README.md">README.md</a> file on the front of the
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> <a href="https://www.github.com">Reference Dependent Repos or Issues</a></li>
 <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> Complete item <a href="https://github.com">issue 34</a></li>
 </ul>
-<p><a href="https://github.com">Reference resolved github repos or issues</a></p>
+<p><a href="
+- [...]
+
+## Phase 2
+Element of Phase 2
+> Description of phase if necessary or not yet determined
+
+[...]
+
+## Phase _N_
+
+## Associated Github Projects
+### Main Project(s)
+[Reference Github Projects (i.e. Arcus POC](https://github.research.chop.edu)
+### Dependencies
+
+ - [ ] List item
+ - [ ] [Reference Dependent Repos or Issues](https://www.github.com)
+ - [x] Complete item [issue 34](https://github.com">)  
+
+[Reference resolved github repos or issues</a></p>
 <h3 id="immediate-issues">Immediate Issues</h3>
 <blockquote>
 <p>to discuss in 1:1s or generally</p>
@@ -63,11 +84,30 @@ Please use the <a href="http://README.md">README.md</a> file on the front of the
 </tr>
 </tbody>
 </table><h2 id="collaborators">Collaborators</h2>
-<p><strong>Non-DBHi</strong><br>
+<p><strong>Non-DBHi</strong><br>](https://github.com)
+
+### Immediate Issues 
+> to discuss in 1:1s or generally
+
+|Item|Issue  |
+|--|--|
+| This thing doesn’t work | [33](https://github.com) |
+| This is so cool | [122]https://github.com)|
+
+## Collaborators
+
+**Non-DBHi**
 :Adam Resnick<br>
 :Bill Gaynor<br>
 :Bob Baldsanno<br>
 :Steve Hungar</p>
 <p>DBHi<br>
-<a href="https://github.com/AlexFelmeister">Alex Felmeister</a></p>
+<a href="(https://github.com/AlexFelmeister">Alex Felmeister</a></p>)
 
+
+
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQyMDczNjIzNV19
+-->
